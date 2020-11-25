@@ -26,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/InderdeepBajwa/ShikariBot/issues"
   },
-  "homepage": "https://github.com/InderdeepBajwa/ShikariBot#readme"
+  "homepage": "https://github.com/InderdeepBajwa/ShikariBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.14.0"
+  }
 }
