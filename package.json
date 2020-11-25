@@ -1,0 +1,30 @@
+{
+  "name": "shikaribot",
+  "version": "0.5.0",
+  "description": "A Punjabi Discord bot with tons of features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InderdeepBajwa/ShikariBot.git"
+  },
+  "keywords": [
+    "punjabi",
+    "panjabi",
+    "punjabi",
+    "bot",
+    "punjabi",
+    "discord",
+    "discord",
+    "bot",
+    "discordjs"
+  ],
+  "author": "Inderdeep Singh Bajwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InderdeepBajwa/ShikariBot/issues"
+  },
+  "homepage": "https://github.com/InderdeepBajwa/ShikariBot#readme"
+}
