@@ -4,7 +4,8 @@
   "description": "A Punjabi Discord bot with tons of features",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js -e ejs,js,css,html,jpg,png,scss"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
   "dependencies": {
     "discord.js": "^12.5.0",
     "dotenv": "^8.2.0",
-    "eslint": "^7.14.0"
+    "eslint": "^7.14.0",
+    "express": "^4.17.1"
   }
 }
