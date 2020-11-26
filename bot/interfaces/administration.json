@@ -1,0 +1,6 @@
+{
+    "serverID": {
+        "ban-response": "ban-response",
+        "kick-response": "kick-response"
+    }
+}

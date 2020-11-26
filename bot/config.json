@@ -1,4 +1,6 @@
 {
-    "prefix": "22ji",
-    "suffix": "22ji"
+    "serverID": {
+        "prefix": "prfx",
+        "suffix": "sfx"
+    }
 }

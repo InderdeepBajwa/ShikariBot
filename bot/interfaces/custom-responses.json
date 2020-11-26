@@ -1,0 +1,16 @@
+{
+    "server-id": {
+        "starts-with": {
+            "start-with-react-test": "react::EMOJI_ID_HERE",
+            "starts-with-reply-test": "reply::response-message-to-start-with"
+        },
+        "contains": {
+            "contains-react-test": "react::EMOJI_ID_HERE",
+            "containsh-reply-test": "reply::response-message-to-contains"
+        },
+        "ends-with": {
+            "ends-with-react-test": "react::EMOJI_ID_HERE",
+            "ends-with-reply-test": "reply::response-message-to-ends-with"
+        }
+    }
+}

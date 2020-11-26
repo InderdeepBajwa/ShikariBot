@@ -14,6 +14,10 @@ app.get('/login', (req, res) => {
     console.log('Currently at /login');
 });
 
+app.use('/app', express.static('web/routes/app.html'));
+app.use('/administration', express.static('web/routes/administration.html'));
+app.use('/custom-responses', express.static('web/routes/custom-responses.html'));
+
 app.listen(port, () => {
     console.log(`Listening at ${port}`);
 });
