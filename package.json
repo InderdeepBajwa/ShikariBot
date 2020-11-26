@@ -1,0 +1,38 @@
+{
+  "name": "shikaribot",
+  "version": "0.5.0",
+  "description": "A Punjabi Discord bot with tons of features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js -e ejs,js,css,html,jpg,png,scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InderdeepBajwa/ShikariBot.git"
+  },
+  "keywords": [
+    "punjabi",
+    "panjabi",
+    "punjabi",
+    "bot",
+    "punjabi",
+    "discord",
+    "discord",
+    "bot",
+    "discordjs"
+  ],
+  "author": "Inderdeep Singh Bajwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InderdeepBajwa/ShikariBot/issues"
+  },
+  "homepage": "https://github.com/InderdeepBajwa/ShikariBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.14.0",
+    "express": "^4.17.1",
+    "livereload": "^0.9.1"
+  }
+}
